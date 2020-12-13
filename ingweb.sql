@@ -2,8 +2,6 @@
 -- version 5.0.2
 -- https://www.phpmyadmin.net/
 --
--- Anamakine: 127.0.0.1:3306
--- Üretim Zamanı: 13 Ara 2020, 15:04:08
 -- Sunucu sürümü: 8.0.21
 -- PHP Sürümü: 7.3.21
 
