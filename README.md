@@ -9,6 +9,3 @@ Integrate the .sql file into the database.
 then login using your username and password and use it.
 
 Note: User login can be activated or removed optionally.
-
-#How can I remove?
-
