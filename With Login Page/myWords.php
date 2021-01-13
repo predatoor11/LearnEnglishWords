@@ -31,6 +31,8 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- ingweb -->
     <link type="text/css" rel="stylesheet" href="css/ingweb.css">
+    <!-- logo -->
+    <link rel="shortcut icon" href="./img/logo.png" type="image/x-icon">
     <title>Kelime Öğren - Kelime Hazinesi</title>
 </head>
 <body>

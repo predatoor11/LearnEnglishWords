@@ -10,6 +10,8 @@
     <link type="text/css" rel="stylesheet" href="css/fontawesome-free/css/all.css">
     <!-- ingweb -->
     <link type="text/css" rel="stylesheet" href="css/ingweb.css">
+    <!-- logo -->
+    <link rel="shortcut icon" href="./img/logo.png" type="image/x-icon">
     <title>Öğrenilen Kelimeler - Test</title>
 </head>
 <body>

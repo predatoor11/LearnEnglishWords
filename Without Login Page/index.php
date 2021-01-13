@@ -11,6 +11,8 @@
     <link type="text/css" rel="stylesheet" href="css/toastr/toastr.css">
     <!-- ingweb -->
     <link rel="stylesheet" type="text/css" href="css/ingweb.css">
+    <!-- logo -->
+    <link rel="shortcut icon" href="./img/logo.png" type="image/x-icon">
     <title>Kelime Öğren - Kelime Ekle, Klasik Test Başlat</title>
 </head>
 <body onload="changeWords()">
